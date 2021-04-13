@@ -1,0 +1,16 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/jquery.js": "/js/jquery.js",
+    "/js/theme.js": "/js/theme.js",
+    "/js/libs/bootstrap.min.js": "/js/libs/bootstrap.min.js",
+    "/js/libs/jquery.fancybox.js": "/js/libs/jquery.fancybox.js",
+    "/js/libs/jquery-ui.min.js": "/js/libs/jquery-ui.min.js",
+    "/js/libs/owl.carousel.js": "/js/libs/owl.carousel.js",
+    "/js/libs/jquery.mCustomScrollbar.js": "/js/libs/jquery.mCustomScrollbar.js",
+    "/js/libs/flipclock.js": "/js/libs/flipclock.js",
+    "/js/libs/jquery.elevatezoom.js": "/js/libs/jquery.elevatezoom.js",
+    "/js/libs/TimeCircles.js": "/js/libs/TimeCircles.js",
+    "/js/libs/wow.js": "/js/libs/wow.js",
+    "/js/libs/jquery.jcarousellite.js": "/js/libs/jquery.jcarousellite.js",
+    "/css/app.css": "/css/app.css"
+}

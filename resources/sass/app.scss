@@ -1,0 +1,30 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Template css 
+
+// @import '../js/assets/css/browser.css';
+// @import '../js/assets/css/color-blue.css';
+// @import '../js/assets/css/color-blue2.css';
+// @import '../js/assets/css/color-blue3.css';
+// @import '../js/assets/css/color-green.css';
+// @import '../js/assets/css/color-magenta.css';
+// @import '../js/assets/css/color-magenta2.css';
+// @import '../js/assets/css/color-magenta3.css';
+// @import '../js/assets/css/color-red.css';
+// @import '../js/assets/css/color-red2.css';
+// @import '../js/assets/css/color-yellow.css';
+// @import '../js/assets/css/color-yellow2.css';
+// @import '../js/assets/css/responsive.css';
+// @import '../js/assets/css/theme.css';
+
+
+// Noty
+@import "~noty/src/noty.scss";
+@import "~noty/src/themes/mint.scss";
